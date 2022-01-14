@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @louis-fourel
+- 👀 I’m interested in data science, IA, machine learning, new technologies, new products developements, innovation, ... and a lot more !
+- 💞️ I’m looking to collaborate on various IA projects with dynamics collaborators !
+- 📫 Contact me by mail @t louis.fourel.dev@gmail.com
